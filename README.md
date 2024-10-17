@@ -20,7 +20,7 @@ To get started, clone the repository and install the required library:
 
 bash
 Copy code
-git clone https://github.com/yourusername/password-manager.git
+git clone https://github.com/PrincexMacbay/Password-manager-encryption.git
 cd password-manager
 pip install cryptography
 Before running the program, generate the encryption key by uncommenting the write_key() function in the code.
